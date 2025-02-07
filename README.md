@@ -19,6 +19,7 @@ Food app
 4.seprate fooddata into foodlist and fooditem
 
 5.styling the components
+
 	5.1 Create a header and style it.
 	5.2 Style the fooditem component.
 	5.3 Create the outer component
